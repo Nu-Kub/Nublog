@@ -34,5 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### ติดต่อ 
 
- Email :
- Tel. :
+ Email :                   Tel. :
